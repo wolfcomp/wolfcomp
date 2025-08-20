@@ -17,6 +17,10 @@ Data is web loaded into the plugin and is curated from multiple sources, the mos
 - Best Exp calculator
 - Leveling calculator
 
+<table>
+<tr>
+<td valign="top">
+
 ## Languages
 ![.Net](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
@@ -37,8 +41,11 @@ Data is web loaded into the plugin and is curated from multiple sources, the mos
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-
+  
+<img width="480" height="1">
+</td>
+<td valign="top">
+  
 ## Tools
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
@@ -58,6 +65,15 @@ Data is web loaded into the plugin and is curated from multiple sources, the mos
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+  
+<img width="480" height="1">
+</td>
+</tr>
+</table>
+
+
+
+
 
 ## OS
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
